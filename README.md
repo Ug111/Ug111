@@ -14,7 +14,14 @@ I build practical blue-team projects focused on real-world log analysis, SSH att
 - Threshold-based alerting
 - Cron job scheduling
 - Basic malware analysis (Kali Linux)
+## 💻 Tech Stack
 
+- Linux (Ubuntu/Kali)
+- Bash
+- grep / awk / sort / uniq
+- Cron
+- Git & GitHub
+- Basic Networking (SSH, TCP/IP)
 ---
 
 ## 🚨 Featured Projects
