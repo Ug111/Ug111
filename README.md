@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Ugochukwu 👋
 
-<!--
-**Ug111/Ug111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Entry-Level SOC Analyst | Linux Log Analysis | Bash Automation | Threat Detection
 
-Here are some ideas to get you started:
+I build practical blue-team projects focused on real-world log analysis, SSH attack detection, and security monitoring automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technical Focus
+
+- Linux system log analysis (`auth.log`)
+- SSH brute-force detection
+- Bash scripting & automation
+- Threshold-based alerting
+- Cron job scheduling
+- Basic malware analysis (Kali Linux)
+
+---
+
+## 🚨 Featured Projects
+
+### 🔎 SSH Brute-Force Live Monitoring
+Real-time SSH attack detection system using Bash and log parsing.
+
+- Dynamic IP extraction using `awk`
+- Threshold-based alert alerts
+- Persistent logging
+- Cron automation
+
+➡️ Repository:  
+https://github.com/Ug111/linux-ssh-live-monitoring
+
+---
+
+### 🧪 SSH Log Investigation
+Manual investigation of suspicious login attempts using Linux command-line tools.
+
+- grep filtering
+- Failed login pattern analysis
+- Attack source identification
+
+➡️ Repository:  
+https://github.com/Ug111/linux-ssh-log-investigation
+
+---
+
+### 🦠 Malware Analysis (Kali Linux)
+Static malware inspection in a controlled lab environment.
+
+- File hashing
+- Strings analysis
+- Basic reverse inspection techniques
+
+➡️ Repository:  
+https://github.com/Ug111/Kali-malware-analysis
+
+---
+
+## 🎯 Career Objective
+
+Actively seeking an entry-level SOC Analyst or Cybersecurity Analyst role where I can apply practical log analysis and threat detection skills in a real-world environment.
+
+---
+
+📫 Let’s connect on LinkedIn
