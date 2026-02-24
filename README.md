@@ -1,6 +1,6 @@
 # Hi, I'm Ugochukwu 👋
 
-🔐 Entry-Level SOC Analyst | Linux Log Analysis | Bash Automation | Threat Detection
+🔐 Junior SOC Analyst | Network Security & Incident Response | SIEM | Linux Security | Threat Detection | Threat Detection | Blue Team Projects
 
 I build practical blue-team projects focused on real-world log analysis, SSH attack detection, and security monitoring automation.
 
