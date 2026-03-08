@@ -2,7 +2,9 @@
 
 🔐 Junior SOC Analyst | Network Security & Incident Response | SIEM | Linux Security | Threat Detection | Blue Team Projects
 
-I build practical blue-team projects focused on real-world log analysis, SSH attack detection, and security monitoring automation.
+I build practical blue-team Security labs focused on real-world attack detection, log analysis, and security monitoring automation.
+My work centers on understanding how attacks appear in logs and building detection techniques used by modern Security Operations Centers (SOC).
+Open to Cybersecurity collaboration and international opportunities.
 
 ---
 
