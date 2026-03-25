@@ -24,9 +24,26 @@ Open to Cybersecurity collaboration and international opportunities.
 - Cron
 - Git & GitHub
 - Basic Networking (SSH, TCP/IP)
+
 ---
 
 ## 🚨 Featured Projects
+
+### 🔎 SSH Brute-Force-Detecetion-Splunk
+Detection and analysis of SSH brute-force attacks using Splunk SIEM,
+log ingestion, attack simulation, and correlation of failed and successful
+login events.
+
+- splunk
+- siem
+- brute-force
+- log-analysis
+- threat-detection
+
+➡️ Repository:
+https://github.com/Ug111/ssh-brute-force-detection-splunk
+
+---
 
 ### 🔎 SSH Brute-Force Live Monitoring
 Real-time SSH attack detection system using Bash and log parsing.
