@@ -1,6 +1,6 @@
 # Hi, I'm Ugochukwu 👋
 
-🔐 Junior SOC Analyst | Network Security & Incident Response | SIEM | Linux Security | Threat Detection | Blue Team Projects
+🔐 SOC Analyst | Network Security & Incident Response | SIEM | Linux Security | Threat Detection | Blue Team Projects
 
 I build practical blue-team Security labs focused on real-world attack detection, log analysis, and security monitoring automation.
 My work centers on understanding how attacks appear in logs and building detection techniques used by modern Security Operations Centers (SOC).
@@ -29,7 +29,7 @@ Open to Cybersecurity collaboration and international opportunities.
 
 ## 🚨 Featured Projects
 
-### 🔎 SSH Brute-Force-Detecetion-Splunk
+### 🔎 SSH Brute-Force-Detection-Splunk
 Detection and analysis of SSH brute-force attacks using Splunk SIEM,
 log ingestion, attack simulation, and correlation of failed and successful
 login events.
@@ -83,7 +83,7 @@ https://github.com/Ug111/Kali-malware-analysis
 ---
 
 ## 🎯 Career Objectives
-I am an aspiring SOC Analyst with hands-on experience in threat detection, log analysis, network security, Linux, and Hack The Box labs.
+I am a SOC Analyst with hands-on experience in threat detection, log analysis, network security, Linux, and Hack The Box labs.
 I am actively seeking an entry-level SOC Analyst or Cybersecurity Analyst role where i can contribute to security operations while continuing to grow 
 more technical expertise.
 
@@ -91,7 +91,8 @@ more technical expertise.
 
 ## Long-Term Vision
 
-My goal is to bridge the gap between technical cybersecurity and business strategy.
+My goal is to bridge the gap between technical cybersecurity and business strategy and also the intersection of cybersecurity operations and policy
+specifically within the African digital  economy context. Nigerian's critical infrastructure, banking, telecoms, energy is increasingly digitised and highly targeted
 While building my career as a SOC Analyst, i am also developing a cybersecurity consulting brand that helps startups and small businesses:
 
 - Reduce cyber risk
