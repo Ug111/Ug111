@@ -82,10 +82,21 @@ https://github.com/Ug111/Kali-malware-analysis
 
 ---
 
-## 🎯 Career Objective
-
-Actively seeking an entry-level SOC Analyst or Cybersecurity Analyst role where I can apply practical log analysis and threat detection skills in a real-world environment.
+## 🎯 Career Objectives
+I am an aspiring SOC Analyst with hands-on experience in threat detection, log analysis, network security, Linux, and Hack The Box labs.
+I am actively seeking an entry-level SOC Analyst or Cybersecurity Analyst role where i can contribute to security operations while continuing to grow 
+more technical expertise.
 
 ---
+
+## Long-Term Vision
+
+My goal is to bridge the gap between technical cybersecurity and business strategy.
+While building my career as a SOC Analyst, i am also developing a cybersecurity consulting brand that helps startups and small businesses:
+
+- Reduce cyber risk
+- Improve security awareness
+- Understand compliance requirements (NIST, SOC 2, GDPR, ISO 27001)
+- Protect customer trust  and business revenue
 
 📫 Let’s connect on LinkedIn
